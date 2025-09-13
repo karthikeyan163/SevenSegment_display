@@ -22,10 +22,23 @@ Close the Simulation Once done, by going to Simulation → "Close Simulation
 
 Input/Output Signal Diagram:
 
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/a2f6ea7e-4871-4a01-a021-fe8b632c5587" />
+
 RTL Code:
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/365b612a-6a2d-4de7-b414-40b358bf68fe" />
+
 TestBench:
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e048efbd-af78-47de-b47a-f0fa7cf8523e" />
+
+Output waveform:
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b5101357-6f21-4c3b-b242-a1f48fd3d76b" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e87a960c-e1f0-4112-a47c-d5eb31254857" />
 
 Output waveform:
 
 Conclusion:
+The Seven-Segment Display was successfully designed and simulated using Verilog HDL in Vivado 2023.1. The testbench verified that the output matched the expected segment patterns for all inputs, confirming correct functionality.
